@@ -13,6 +13,7 @@ const FilterPanel = () => {
   if (currentFilters.length === 0) {
     return null;
   }
+  console.log("Я новая ветка develop");
 
   return (
     <Card className="filter-panel">
