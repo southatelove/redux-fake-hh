@@ -14,7 +14,7 @@ const FilterPanel = () => {
     return null;
   }
   console.log("Я новая ветка develop");
-
+  console.log("change a Name");
   return (
     <Card className="filter-panel">
       <div className="filter-panel-wrapper">
